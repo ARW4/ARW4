@@ -1,7 +1,6 @@
 # Bio
+Alex currently works as a Data Analytics Consultant for The Information Lab where he helps clients make sense of data. Some examples of how Alex has helpped clients includes: converting a weekly 6+ hour process into a fully automated tableau prep flow, extracted data from APIs using R and alteyrx, creating dashboards for c-suite users to better understand their portfolio.  
 
-Alex is currently working as a data analytics consultant for The Information Lab
-Alex graduated with a first class degree in Economics with Econometrics. His degree began as pure Economics, however whilst studying introduction to econometrics modules he quickly realised he loved working qith data. 
 
 # Certifications
 | Tableau Data Analyst | Power BI Data <br> Analyst Associate | Alteryx Designer |
